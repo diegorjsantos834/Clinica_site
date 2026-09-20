@@ -3,7 +3,7 @@
 Sistema web para **gerenciar o agendamento de consultas** de uma clínica médica. Permite cadastrar, listar, editar e excluir consultas (CRUD), associando cada paciente a um médico, uma especialidade e uma data.
 
 
-> ▶️ [Assistir à demonstração em vídeo](
+> ▶️ Assistir à demonstração em vídeo
 
 https://github.com/user-attachments/assets/1bd2bd75-dd41-400a-8d08-5cdf968577e4
 
