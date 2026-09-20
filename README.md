@@ -47,19 +47,6 @@ Em qualquer formulário, o botão **Cancelar** volta para a lista sem salvar.
 - **JavaScript** — diálogo de confirmação na exclusão
 - Servidor local (**localhost**), como XAMPP, WAMP ou similar
 
-## 📁 Estrutura do projeto
-
-```
-Clinica_site/
-├── index.php     # Lista de consultas agendadas
-├── criar.php     # Formulário de novo agendamento
-├── editar.php    # Formulário de edição (recebe o ID da consulta)
-└── docs/
-    └── demo.mp4  # Vídeo de demonstração usado neste README
-```
-
-> Outros arquivos (conexão com o banco, CSS, imagens) podem existir no projeto; a estrutura acima reflete as páginas exibidas no vídeo de demonstração.
-
 ## 🚀 Como executar
 
 1. Instale um servidor local com PHP e banco de dados (ex.: [XAMPP](https://www.apachefriends.org/)).
@@ -82,4 +69,4 @@ Clinica_site/
 
 ## 👤 Autor
 
-Desenvolvido por **[seu nome]**.
+Desenvolvido por **Diego Rodrigues**.
